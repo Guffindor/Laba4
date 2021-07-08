@@ -14,4 +14,4 @@ jobs:
         with:
           python-version: 3.8
       - name: Run script
-        run: python3 test.py
+        run: python3 script
